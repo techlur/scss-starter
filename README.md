@@ -52,7 +52,7 @@ The following webpack plugins are also included:
 * Please make sure you have NodeJS installed, as this contains `npm`, which is necessary
 for installing dependencies, starting the appropriate scripts, and building your web project.
 
-### Quick Start
+### Installation
 Clone the repo:
 
     git clone https://github.com/techlur/scss-starter.git
